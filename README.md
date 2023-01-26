@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying in Northwest Missouri State University.
+- 🔭 Northwest Missouri State University || Applied Computer Science (2023-2024).
 - 🌱 I’m currently learning Web application development.
 - 👯 I’m looking to collaborate with REACT Developers.
 - 📫 How to reach me: jagadishgollapalli24@gmail.com || https://www.linkedin.com/in/jagadish2406
