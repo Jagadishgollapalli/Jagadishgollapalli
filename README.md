@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jagadish Gollapalli</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-
-<img src="./images/web.png">
+<img src="./images/web.png" width="100%">
 
 - 👯 I’m looking to collaborate with **React Developers**
 
