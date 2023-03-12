@@ -25,7 +25,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishgollapalli&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jagadishgollapalli" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadishgollapalli&show_icons=true&theme=merko&locale=en" alt="jagadishgollapalli" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jagadishgollapalli&show_icons=true&theme=merko&locale=en" alt="jagadishgollapalli" />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishgollapalli&theme=dark" alt="jagadishgollapalli" />
 
