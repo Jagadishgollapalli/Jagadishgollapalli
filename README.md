@@ -30,5 +30,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jagadishgollapalli&show_icons=true&locale=en" alt="jagadishgollapalli" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishgollapalli&" alt="jagadishgollapalli" />
 
