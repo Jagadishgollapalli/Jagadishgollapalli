@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jagadish Gollapalli</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
+<img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+
 - 👯 I’m looking to collaborate with **React Developers**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/jagadishgollapalli/sites](https://app.netlify.com/teams/jagadishgollapalli/sites)
 
 - 💬 Ask me about **Reactjs and Nodejs**
 
-- 📫 How to reach me **jagadishgollapalli24@gmail.com**
+- 📫 Reach me at **jagadishgollapalli24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
