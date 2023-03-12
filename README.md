@@ -1,4 +1,4 @@
-<img src="./images/web.png" width="100%" height="460px">
+<img src="./images/web.png" width="100%" height="480px">
 
 - 👯 I’m looking to collaborate with **React Developers**
 
