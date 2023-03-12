@@ -23,10 +23,10 @@
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishgollapalli&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jagadishgollapalli" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishgollapalli&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jagadishgollapalli" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jagadishgollapalli&show_icons=true&theme=merko&locale=en" alt="jagadishgollapalli" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadishgollapalli&show_icons=true&theme=merko&locale=en" alt="jagadishgollapalli" height="165px" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishgollapalli&theme=dark" alt="jagadishgollapalli" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishgollapalli&theme=dark" alt="jagadishgollapalli" />
 
 
