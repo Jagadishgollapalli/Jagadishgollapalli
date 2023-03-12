@@ -1,12 +1,10 @@
-<img src="./images/web.png" width="100%">
+<img src="./images/web.png" width="100%" height="460px">
 
 - 👯 I’m looking to collaborate with **React Developers**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/jagadishgollapalli/sites](https://app.netlify.com/teams/jagadishgollapalli/sites)
+- 👨‍💻 My projects at: [https://app.netlify.com/teams/jagadishgollapalli/sites](https://app.netlify.com/teams/jagadishgollapalli/sites)
 
-- 💬 Ask me about **Reactjs and Nodejs**
-
-- 📫 Reach me at **jagadishgollapalli24@gmail.com**
+- 📫 Reach me at: **jagadishgollapalli24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
