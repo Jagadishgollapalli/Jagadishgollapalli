@@ -1,18 +1,21 @@
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶</h1>
+<h3 align="center">𓂀 𝒶 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝓈𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝑒𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𓂀</h3>
+<img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" width="300px" height="250px"  align="right" >
+<br/>
 
-- 👯 I’m looking to collaborate with **React Developers**
+- 🍟🎼 𝐼 𝒶𝓂 𝒶 𝓉𝓇𝓊𝑒 ***Epicure*** and ***Melophile*** 𝒶𝓉 𝒽𝑒𝒶𝓇𝓉, 𝓈𝑜𝓂𝑒𝑜𝓃𝑒 𝓌𝒽𝑜 𝒻𝒾𝓃𝒹𝓈 𝑒𝓆𝓊𝒶𝓁 𝓅𝓁𝑒𝒶𝓈𝓊𝓇𝑒 𝒾𝓃 𝓉𝒽𝑒 𝓈𝑒𝓃𝓈𝑜𝓇𝓎 𝒹𝑒𝓁𝒾𝑔𝒽𝓉𝓈 𝑜𝒻 𝒻𝒾𝓃𝑒 𝒻𝑜𝑜𝒹 𝒶𝓃𝒹 𝒹𝓇𝒾𝓃𝓀 𝒶𝓈 𝓌𝑒𝓁𝓁 𝒶𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓁-𝓈𝓉𝒾𝓇𝓇𝒾𝓃𝑔 𝓈𝑜𝓊𝓃𝒹𝓈 𝑜𝒻 𝓂𝓊𝓈𝒾𝒸.
 
-- 👨‍💻 My projects at: [https://app.netlify.com/teams/jagadishgollapalli/sites](https://app.netlify.com/teams/jagadishgollapalli/sites)
+- 👨‍💻 𝑀𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 𝒶𝓉: [https://app.netlify.com/teams/jagadishgollapalli/sites](https://app.netlify.com/teams/jagadishgollapalli/sites)
 
-- 📫 Reach me at: **jagadishgollapalli24@gmail.com**
+- 📫 𝑅𝑒𝒶𝒸𝒽 𝓂𝑒 𝒶𝓉: **jagadishgollapalli24@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h3>
 <p align="left">
 <a href="https://dev.to/jagadishgollapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jagadishgollapalli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jagadish2406in/harika-sahini-648b00159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagadish2406in/harika-sahini-648b00159/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
