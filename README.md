@@ -29,7 +29,32 @@
 
 ## 🛠 Skills
 <div>
-  
+<img src="\images\001-js.png" alt="Image 1">
+<img src="\images\002-java.png" alt="Image 2">
+<img src="\images\003-typescript.png" alt="Image 3">
+<img src="\images\004-structure.png" alt="Image 4">
+<img src="\images\005-node-js.png" alt="Image 5">
+<img src="\images\006-ruby.png" alt="Image 6">
+<img src="\images\007-sql-server.png" alt="Image 7">
+<img src="\images\008-html-5.png" alt="Image 8">
+<img src="\images\009-css-3.png" alt="Image 9">
+<img src="\images\010-social.png" alt="Image 10">
+<img src="\images\011-document.png" alt="Image 11">
+<img src="\images\012-xml.png" alt="Image 12">
+<img src="\images\013-json.png" alt="Image 13">
+<img src="\images\014-sass.png" alt="Image 14">
+<img src="\images\015-file.png" alt="Image 15">
+<img src="\images\016-api.png" alt="Image 16">
+<img src="\images\017-bootstrap.png" alt="Image 17">
+<img src="\images\018-books.png" alt="Image 18">
+<img src="\images\019-database.png" alt="Image 19">
+<img src="\images\020-postgre.png" alt="Image 20">
+<img src="\images\022-docker.png" alt="Image 22">
+<img src="\images\023-scrum.png" alt="Image 23">
+<img src="\images\024-test.png" alt="Image 24">
+<img src="\images\025-gitlab.png" alt="Image 25">
+<img src="\images\026-github.png" alt="Image 26">
+<img src="\images\027-windows.png" alt="Image 27">
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishgollapalli&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jagadishgollapalli" />
