@@ -53,8 +53,8 @@
 <img src="\images\023-scrum.png" alt="Image 23">
 <img src="\images\024-test.png" alt="Image 24">
 <img src="\images\025-gitlab.png" alt="Image 25">
-<img src="\images\026-github.png" alt="Image 26">
-<img src="\images\027-windows.png" alt="Image 27">
+<img src="\images\windows" alt="Image 26">
+<img src="\images\027-github.png" alt="Image 27">
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishgollapalli&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jagadishgollapalli" />
