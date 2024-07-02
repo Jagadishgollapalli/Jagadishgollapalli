@@ -53,7 +53,7 @@
 <img src="\images\023-scrum.png" alt="Image 23">
 <img src="\images\024-test.png" alt="Image 24">
 <img src="\images\025-gitlab.png" alt="Image 25">
-<img src="\images\windows.png" alt="Image 26">
+<img src="\images\026-windows.png" alt="Image 26">
 <img src="\images\027-github.png" alt="Image 27">
 </div>
 
