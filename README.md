@@ -1,6 +1,6 @@
 <h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶</h1>
 <h3 align="center">𓂀 𝒶 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝓈𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝑒𝓃𝑔𝒾𝓃𝑒𝑒𝓇 𓂀</h3>
-<h3 align="center">I was lucky to work as a <span style="color: green">GRADUATE ASSISTANT</span> for 2 semesters for <span style="color: green">WEBAPPS</span> with <span style="color: green">DR.CHARLES HOOT</span></h3>
+<h3 align="center">I was lucky to work as a <span style="color:green">GRADUATE ASSISTANT</span> for 2 semesters for <span style="color:green">WEBAPPS</span> with <span style="color:green">DR.CHARLES HOOT</span></h3>
 <img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" width="300px" height="250px"  align="right" >
 <br/>
 
