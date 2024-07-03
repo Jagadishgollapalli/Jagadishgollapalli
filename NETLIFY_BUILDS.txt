@@ -1,0 +1,29 @@
+MY NETLIFY PROFILE LINK CANNOT BE ACCESSIBLE TO VIEWERS, SO I AM PROVIDING THE NOTEBOOK FOR YOU REF,
+
+1. EMART - https://emart-reactjs.netlify.app/
+
+2. E-SHOP - https://e-shop-ui-reactjs.netlify.app/
+
+3. CORONA VISUALIZER - https://corona-visualizer-reactjs.netlify.app/
+
+4. QUIZ APP - https://simple-quiz-app-reactjs.netlify.app/
+
+5. PAGINATION DOM - https://pagination-indom.netlify.app/
+
+6. REACT CRUD APP - https://crud-operation-react-js.netlify.app/
+
+7. REACT CRYPTO TRACKER - https://react-crypto-tracker-pro.netlify.app/
+
+8. REACT RECIEPE PROJECT - https://recipe-project-react.netlify.app/
+
+9. REACT SEARCH FILTER - https://genesispro.netlify.app/
+
+10. WEATHER APP REACT - https://api-weather-application-reactjs.netlify.app/
+
+11. WEATHER CARD API - https://weather-card-api.netlify.app/
+
+12. USE CONTEXT EXPLANATION - https://usecontext-reactjs.netlify.app/
+
+13. REACT AND BOOTSTRAP STATIC UI RESPONSIVE - https://sb-admin-react.netlify.app/
+
+14. REACT LYFE CYCLE UNDERSTANDINGS - https://use-effect-lifecycle.netlify.app/
