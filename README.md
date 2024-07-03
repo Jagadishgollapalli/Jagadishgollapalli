@@ -20,9 +20,10 @@
 <p align="left">
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.netlify.com/teams/jagadishgollapalli/overview)<br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.netlify.com/teams/jagadishgollapalli/overview) OR [![portfolio](https://img.shields.io/badge/my_portfolio-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)](./NETLIFY_BUILDS.html)
+<br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadish-954186205/)<br>
-[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Jagadishgollapalli)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jagadishgollapalli)
 </p>
 
 ## 🛠 Skills
