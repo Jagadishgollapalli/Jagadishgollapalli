@@ -45,7 +45,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 [![portfolio](https://img.shields.io/badge/my_portfolio_at_netlify-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.kenangain.com/](https://img.shields.io/badge/my_portfolio_at_netlify-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white))
 [![portfolio](https://img.shields.io/badge/my_portfolio_in_notepad-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)](./NETLIFY_BUILDS.txt)
 [![Github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/jagadish-954186205/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadish-954186205/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/jagadish-954186205/)
 </div>
 
 
