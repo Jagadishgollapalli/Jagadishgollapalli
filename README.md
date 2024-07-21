@@ -44,11 +44,20 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 
 ## 🔗 Links
 <div align="center">
-
-[![portfolio](https://img.shields.io/badge/my_portfolio_at_netlify-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.kenangain.com/](https://img.shields.io/badge/my_portfolio_at_netlify-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white))
-[![portfolio](https://img.shields.io/badge/my_portfolio_in_notepad-6C9A8B?style=for-the-badge&logo=ko-fi&logoColor=white)](./NETLIFY_BUILDS.txt)
-[![Github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jagadishgollapalli)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/jagadish-954186205/)
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/g-jagadish-954186205/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fg-jagadish-954186205%2F&subtitle=@Jagadish&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jagadishgollapalli" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJagadishgollapalli&subtitle=%2FJagadishgollapalli&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+  </tr>
+  </table>
 </div>
 
 
