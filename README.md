@@ -57,7 +57,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
     </td>
     <td align="center">
       <a href="https://app.netlify.com/teams/jagadishgollapalli/sites" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTailwindcss&size=square&rounded=24&subtitle=testing" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://buymeacoffee.com/netlify&size=square" alt="Kenan Gain">
       </a>
     </td>
   </tr>
