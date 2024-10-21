@@ -4,7 +4,7 @@
 </p>
 
 <div>
-<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/RESUME.jpg"></h1> 
+<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/resume.png"></h1> 
 </div>
 
 <p align="center">
