@@ -4,9 +4,8 @@
 </p>
 
 <div>
-<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/resume.png"></h1> 
+<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/resume.png"> <img width="150" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47zuv54xcr6yqww9qcnj1t6ohsj54wcwkinaibll29&ep=v1_gifs_search&rid=giphy.gif&ct=g"></h1>
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jagadishgollapalli&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
@@ -47,13 +46,18 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
   <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/g-jagadish-954186205/" target="_blank">
+      <a href="https://www.linkedin.com/in/g-jagadish954186205/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fg-jagadish-954186205%2F&subtitle=@Jagadish&size=square" alt="Kenan Gain">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Jagadishgollapalli" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJagadishgollapalli&subtitle=%2FJagadishgollapalli&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://app.netlify.com/teams/jagadishgollapalli/sites" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTailwindcss&size=square&rounded=24&subtitle=testing" alt="Kenan Gain">
       </a>
     </td>
   </tr>
@@ -74,29 +78,35 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
   </thead>
   <tbody>
     <tr>
+       <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
+      </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/><br>Next.js
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React
       </td>
       <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="React" width="50" height="50"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg" alt="angular" width="50" height="50"/><br>Angular
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/><br>jQuery
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
       </td>
     </tr>
   </tbody>
@@ -112,6 +122,9 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
   </thead>
   <tbody>
     <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="java"/><br>Node.js
+      </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
