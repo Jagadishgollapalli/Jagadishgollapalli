@@ -28,9 +28,9 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 
 | Company | Duration |
 |---------|----------|
-| ![Magic Minds](https://img.shields.io/badge/Magic%20Minds%20(1Y)-9B9ECE) | 1 Year |
-| ![Juhomi ltd (2Y)](https://img.shields.io/badge/Juhomi%20ltd%20(2Y)%20-816E94) | 2 Years |
-![Northwest Missouri State University (1.3Y)](https://img.shields.io/badge/Northwest%20Missouri%20State%20University%20(1.3Y)%20-065143) | 1.3 Years |
+| ![CRST International](https://img.shields.io/badge/CRST%20International%20(1Y)-9B9ECE) | MAY 2024 - Present |
+| ![Juhomi ltd (2Y)](https://img.shields.io/badge/Juhomi%20ltd%20(2Y)%20-816E94) | June 2021 - Dec 2022 |
+![Northwest Missouri State University (1.3Y)](https://img.shields.io/badge/Northwest%20Missouri%20State%20University%20(1.3Y)%20-065143) | Aug 2023 - April 2024 |
 
 ## Additional Work Experience
 
