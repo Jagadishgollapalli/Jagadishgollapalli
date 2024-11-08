@@ -47,12 +47,12 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/g-jagadish954186205/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fg-jagadish-954186205%2F&subtitle=@Jagadish&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fg-jagadish-954186205%2F&subtitle=@Jagadish&size=square" alt="Linkedin">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Jagadishgollapalli" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJagadishgollapalli&subtitle=%2FJagadishgollapalli&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJagadishgollapalli&subtitle=%2FJagadishgollapalli&size=square" alt="Github">
       </a>
     </td>
     <td align="center">
