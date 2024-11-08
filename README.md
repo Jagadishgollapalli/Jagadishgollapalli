@@ -4,7 +4,7 @@
 </p>
 
 <div>
-<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/resume.png"> <img width="150" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47zuv54xcr6yqww9qcnj1t6ohsj54wcwkinaibll29&ep=v1_gifs_search&rid=giphy.gif&ct=g"></h1>
+<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/resumebarcode.png"> <img width="150" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47zuv54xcr6yqww9qcnj1t6ohsj54wcwkinaibll29&ep=v1_gifs_search&rid=giphy.gif&ct=g"></h1>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jagadishgollapalli&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
