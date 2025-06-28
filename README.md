@@ -28,7 +28,8 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 
 | Company | Duration |
 |---------|----------|
-| ![CRST International](https://img.shields.io/badge/CRST%20International%20-9B9ECE) | MAY 2024 - Present |
+| ![Triplemeter Inc](https://img.shields.io/badge/Triplemeter%20Inc%20-EFD27D) | March 2025 - Present |
+| ![CRST International](https://img.shields.io/badge/CRST%20International%20-9B9ECE) | May 2024 - Feb 2025 |
 | ![Juhomi ltd (2Y)](https://img.shields.io/badge/Juhomi%20ltd%20(2Y)%20-816E94) | June 2021 - Dec 2022 |
 ![Northwest Missouri State University (1.3Y)](https://img.shields.io/badge/Northwest%20Missouri%20State%20University%20(1.3Y)%20-065143) | Aug 2023 - April 2024 |
 
@@ -218,7 +219,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="mailto:jagovindha@gmail.com"><img src="https://img.shields.io/badge/Email-jagovindha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:jagovindha@gmail.com"><img src="https://img.shields.io/badge/Email-jagadishgollapalli24%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="tel:+1(563)-366-9371"><img src="https://img.shields.io/badge/International%20Phone-%2B1%20(563--366--9371)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="International Phone"></a>
 </p>
 <div align="center">
