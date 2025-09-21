@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-<p align="right">
-  <sub style="text-align: center; color: red;">(scan QR for Resume)</sub>
-</p>
 
 <div>
-<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> <img width="150" height="150" src="images/resumebarcode.png"> <img width="150" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47zuv54xcr6yqww9qcnj1t6ohsj54wcwkinaibll29&ep=v1_gifs_search&rid=giphy.gif&ct=g"></h1>
+<h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗮𝗴𝗮𝗱𝗶𝘀𝗵 𝗚𝗼𝗹𝗹𝗮𝗽𝗮𝗹𝗹𝗶<br> <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"><img width="150" height="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47zuv54xcr6yqww9qcnj1t6ohsj54wcwkinaibll29&ep=v1_gifs_search&rid=giphy.gif&ct=g"></h1>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jagadishgollapalli&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
@@ -23,6 +20,8 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 # Skills and Experience
 
 [![Full Stack Developer](https://img.shields.io/badge/Java%20%26%20React%20Full%20Stack%20Developer%20with%204+%20Years%20of%20Experience-840032?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Java%20%26%20React%20Full%20Stack%20Developer%20with%204%20Years%20of%20Experience-840032)
+
+> I Post some shit at ⚡ https://stackblitz.com/@Jagadishgollapalli ⚡
 
 ## Work Experience
 
