@@ -27,7 +27,7 @@ In addition to my technical expertise, I am a true epicure and melophile at hear
 
 | Company | Duration |
 |---------|----------|
-| ![Triplemeter Inc](https://img.shields.io/badge/Triplemeter%20Inc%20-EFD27D) | March 2025 - Present |
+| ![Triplemeter Inc](https://img.shields.io/badge/Triplemeter%20Inc%20-EFD27D) | March 2025 - May 2026 |
 | ![CRST International](https://img.shields.io/badge/CRST%20International%20-9B9ECE) | May 2024 - Jan 2025 |
 | ![Juhomi ltd (2Y)](https://img.shields.io/badge/Juhomi%20ltd%20(2Y)%20-816E94) | June 2019 - Dec 2022 |
 ![Northwest Missouri State University (1.3Y)](https://img.shields.io/badge/Northwest%20Missouri%20State%20University%20(1.3Y)%20-065143) | Aug 2023 - April 2024 |
